@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SoftUNI\\Playground\\Playground\\BPB Online\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDAFF47-1806-4929-BA80-27268CCC1EF1}|..\\Herokuapp\\Herokuapp.csproj|c:\\softuni\\playground\\playground\\herokuapp\\herokuapp_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDAFF47-1806-4929-BA80-27268CCC1EF1}|..\\Herokuapp\\Herokuapp.csproj|c:\\softuni\\playground\\playground\\herokuapp\\homepageelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B8DF33-0743-45D2-BF57-4F49FED352F4}|..\\Wikipedia\\Wikipedia.csproj|c:\\softuni\\playground\\playground\\wikipedia\\wikipedia_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePageElements.cs",
+              "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\HomePageElements.cs",
+              "RelativeDocumentMoniker": "..\\Herokuapp\\HomePageElements.cs",
+              "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\HomePageElements.cs",
+              "RelativeToolTip": "..\\Herokuapp\\HomePageElements.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:24:41.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Herokuapp_Tests.cs",
+              "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\Herokuapp_Tests.cs",
+              "RelativeDocumentMoniker": "..\\Herokuapp\\Herokuapp_Tests.cs",
+              "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\Herokuapp\\Herokuapp_Tests.cs",
+              "RelativeToolTip": "..\\Herokuapp\\Herokuapp_Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T20:20:09.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wikipedia_Tests.cs",
+              "DocumentMoniker": "C:\\SoftUNI\\Playground\\Playground\\Wikipedia\\Wikipedia_Tests.cs",
+              "RelativeDocumentMoniker": "..\\Wikipedia\\Wikipedia_Tests.cs",
+              "ToolTip": "C:\\SoftUNI\\Playground\\Playground\\Wikipedia\\Wikipedia_Tests.cs",
+              "RelativeToolTip": "..\\Wikipedia\\Wikipedia_Tests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:50:48.924Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
